@@ -1,5 +1,5 @@
 
-Este es repositorio de Agustin Oberti para CoderHouse
+Este es el repositorio de Agustin Oberti para CoderHouse
 
 Este es un servidor express que tiene 3 endPoints:
 GET /items
